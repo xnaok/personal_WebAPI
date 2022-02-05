@@ -1,2 +1,3 @@
-## personal_WebAPIの作成
+## 個人用WebAPIの作成
 個人で運用するためのWeb APIの作成
+Ongoing project...
