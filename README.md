@@ -1,5 +1,5 @@
 ## 個人用WebAPIの作成
-- 個人で運用するためのWeb APIの作成
+- 個人で運用するためのWebAPIの作成
 - Ongoing project...
 
 ## 参考資料
